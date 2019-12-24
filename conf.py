@@ -16,12 +16,12 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "我的个人博客"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+site_build_date = "2019-12-24T12:00+08:00"
+author = "Sogakeji"
+email = "sogakeji@gmail.com"
+author_homepage = "https://www.ployglot.vip"
+description = "坚持。共勉。"
+key_words = ['Maverick', 'Japanese', 'Corner', 'blog']
 language = 'zh-CN'
 external_links = [
     {
@@ -30,9 +30,9 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "sogakeji",
+        "url": "https://www.polyglot.vip",
+        "brief": "sogakeji的主页。"
     }
 ]
 nav = [
@@ -56,17 +56,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/shinypig1",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/sogakeji",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/shinypigcc/",
         "icon": "gi gi-weibo"
     }
 ]
