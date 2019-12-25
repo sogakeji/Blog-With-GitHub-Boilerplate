@@ -25,9 +25,9 @@ key_words = ['Maverick', 'Japanese', 'Corner', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "name": "公式Blog",
+        "url": "https://www.notion.so/2020plan/Blog-6d0b7728f30840ee93679cbfc2b6fd3e",
+        "brief": "🏄‍上海松江日语角."
     },
     {
         "name": "sogakeji",
